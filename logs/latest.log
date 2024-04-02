@@ -1,0 +1,177 @@
+[14:13:27] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:13:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:13:27] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:13:27] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[14:13:27] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[14:13:27] [main/INFO]: Reloading ResourceManager: Default
+[14:13:29] [Worker-Main-13/INFO]: Loaded 7 recipes
+[14:13:30] [Worker-Main-13/INFO]: Loaded 927 advancements
+[14:13:35] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[14:13:35] [Server thread/INFO]: Loading properties
+[14:13:35] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: The handle is invalid
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:1.8.0_281]
+	at java.io.FileInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read1(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedInputStream.read(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.readBytes(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.implRead(Unknown Source) ~[?:1.8.0_281]
+	at sun.nio.cs.StreamDecoder.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.InputStreamReader.read(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.fill(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at java.io.BufferedReader.readLine(Unknown Source) ~[?:1.8.0_281]
+	at zg$1.run(SourceFile:89) [server.jar:?]
+[14:13:35] [Server thread/INFO]: Default game type: SURVIVAL
+[14:13:35] [Server thread/INFO]: Generating keypair
+[14:13:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:13:36] [Server thread/INFO]: Using default channel type
+[14:13:53] [Server thread/INFO]: Preparing level "world"
+[14:13:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:13:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:54] [Server thread/INFO]: Preparing spawn area: 0%
+[14:13:56] [Server thread/INFO]: Time elapsed: 2917 ms
+[14:13:56] [Server thread/INFO]: Done (3.047s)! For help, type "help"
+[14:17:52] [User Authenticator #1/INFO]: UUID of player OGFlamez is d2116038-c9e5-4c66-8f2c-45bdf4b2f7c4
+[14:17:52] [Server thread/INFO]: OGFlamez[/127.0.0.1:51370] logged in with entity id 170 at (-2.8792216579122747, 63.0, -448.3787778524663)
+[14:17:52] [Server thread/INFO]: OGFlamez joined the game
+[14:17:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2309ms or 46 ticks behind
+[14:18:11] [User Authenticator #2/INFO]: UUID of player iDONTclean is e2714ab3-4777-4845-965e-06101226e1ee
+[14:18:12] [Server thread/INFO]: iDONTclean[/0:0:0:0:0:0:0:1:51378] logged in with entity id 203 at (1.2756994227999456, 63.0, -446.6417125509071)
+[14:18:12] [Server thread/INFO]: iDONTclean joined the game
+[14:20:39] [Server thread/INFO]: iDONTclean was slain by OGFlamez
+[14:21:07] [Server thread/INFO]: iDONTclean was slain by OGFlamez
+[14:21:19] [User Authenticator #3/INFO]: UUID of player KidboyGamingYT is 41c429f4-5df2-4f28-aa1e-2c26c22a39b7
+[14:21:19] [Server thread/INFO]: KidboyGamingYT[/0:0:0:0:0:0:0:1:51443] logged in with entity id 653 at (69.5, 63.0, -396.5)
+[14:21:19] [Server thread/INFO]: KidboyGamingYT joined the game
+[14:21:55] [Server thread/INFO]: [OGFlamez: Teleported iDONTclean to OGFlamez]
+[14:22:00] [Server thread/INFO]: [OGFlamez: Teleported OGFlamez to KidboyGamingYT]
+[14:22:00] [Server thread/WARN]: OGFlamez moved too quickly! -10.005333917846386,-9.799999952316284,-64.96994809108799
+[14:22:00] [Server thread/WARN]: OGFlamez moved too quickly! -10.005333917846386,-9.799999952316284,-64.96994809108799
+[14:22:58] [Server thread/INFO]: iDONTclean was slain by OGFlamez
+[14:24:12] [Server thread/INFO]: iDONTclean was slain by OGFlamez
+[14:25:15] [Server thread/INFO]: OGFlamez was slain by iDONTclean
+[14:25:57] [Server thread/INFO]: [OGFlamez: Teleported OGFlamez to iDONTclean]
+[14:25:57] [Server thread/WARN]: OGFlamez moved too quickly! -241.1549091394343,-3.0,243.6011551008669
+[14:25:57] [Server thread/WARN]: OGFlamez moved too quickly! -241.1549091394343,-3.0,243.6011551008669
+[14:26:40] [Server thread/INFO]: [iDONTclean: Teleported iDONTclean to KidboyGamingYT]
+[14:26:44] [Server thread/INFO]: KidboyGamingYT has made the advancement [Stone Age]
+[14:27:21] [Server thread/INFO]: KidboyGamingYT has made the advancement [Getting an Upgrade]
+[14:27:35] [Server thread/INFO]: OGFlamez fell out of the world
+[14:27:35] [Server thread/INFO]: [OGFlamez: Killed OGFlamez]
+[14:27:36] [Server thread/WARN]: OGFlamez moved too quickly! 257.6828749710688,0.0,-228.47024953792976
+[14:27:58] [Server thread/INFO]: OGFlamez fell out of the world
+[14:27:58] [Server thread/INFO]: [OGFlamez: Killed OGFlamez]
+[14:28:41] [Server thread/INFO]: OGFlamez fell out of the world
+[14:28:41] [Server thread/INFO]: [OGFlamez: Killed OGFlamez]
+[14:28:59] [Server thread/INFO]: [OGFlamez: Set own game mode to Creative Mode]
+[14:30:23] [Server thread/INFO]: [OGFlamez: Set own game mode to Survival Mode]
+[14:30:40] [Server thread/INFO]: [OGFlamez: Set own game mode to Creative Mode]
+[14:30:52] [Server thread/INFO]: [iDONTclean: Teleported KidboyGamingYT to iDONTclean]
+[14:31:02] [Server thread/INFO]: KidboyGamingYT has made the advancement [Acquire Hardware]
+[14:31:17] [Server thread/INFO]: [OGFlamez: Made KidboyGamingYT a server operator]
+[14:33:40] [Server thread/INFO]: KidboyGamingYT has made the advancement [Suit Up]
+[14:34:29] [Server thread/INFO]: [OGFlamez: Removed 2 items from player OGFlamez]
+[14:36:15] [Server thread/INFO]: [OGFlamez: Set own game mode to Survival Mode]
+[14:37:25] [Server thread/INFO]: [OGFlamez: Set own game mode to Creative Mode]
+[14:38:57] [Server thread/INFO]: [OGFlamez: Removed 1 items from player OGFlamez]
+[14:39:52] [Server thread/INFO]: [iDONTclean: Gave 1 [Bucket] to iDONTclean]
+[14:45:01] [Server thread/INFO]: KidboyGamingYT lost connection: Disconnected
+[14:45:01] [Server thread/INFO]: KidboyGamingYT left the game
+[14:46:07] [User Authenticator #4/INFO]: UUID of player KidboyGamingYT is 41c429f4-5df2-4f28-aa1e-2c26c22a39b7
+[14:46:07] [Server thread/INFO]: KidboyGamingYT[/0:0:0:0:0:0:0:1:52386] logged in with entity id 5593 at (-32.35544763317962, 64.0, -295.6353009416268)
+[14:46:07] [Server thread/INFO]: KidboyGamingYT joined the game
+[14:47:46] [Server thread/INFO]: [OGFlamez: Removed 3 items from player OGFlamez]
+[14:48:26] [Server thread/INFO]: KidboyGamingYT has made the advancement [Monster Hunter]
+[14:48:58] [Server thread/INFO]: [OGFlamez: Removed 9 items from player OGFlamez]
+[14:49:09] [Server thread/INFO]: [OGFlamez: Removed 1 items from player OGFlamez]
+[14:49:28] [Server thread/INFO]: KidboyGamingYT lost connection: Disconnected
+[14:49:28] [Server thread/INFO]: KidboyGamingYT left the game
+[14:50:20] [User Authenticator #5/INFO]: UUID of player KidboyGamingYT is 41c429f4-5df2-4f28-aa1e-2c26c22a39b7
+[14:50:21] [Server thread/INFO]: KidboyGamingYT[/0:0:0:0:0:0:0:1:52513] logged in with entity id 6337 at (76.69999998807907, 63.0, -371.08248788350255)
+[14:50:21] [Server thread/INFO]: KidboyGamingYT joined the game
+[14:50:54] [Server thread/INFO]: [OGFlamez: Set own game mode to Survival Mode]
+[14:50:57] [Server thread/INFO]: KidboyGamingYT was slain by Zombie
+[14:51:09] [Server thread/INFO]: [OGFlamez: Gamerule keepInventory is now set to: false]
+[14:51:51] [Server thread/INFO]: [OGFlamez: Applied effect Poison to 3 targets]
+[14:51:55] [Server thread/INFO]: KidboyGamingYT was shot by Skeleton
+[14:52:03] [Server thread/INFO]: [OGFlamez: Removed every effect from OGFlamez]
+[14:52:18] [Server thread/INFO]: [OGFlamez: Removed every effect from 3 targets]
+[14:52:23] [Server thread/INFO]: iDONTclean hit the ground too hard
+[14:52:30] [Server thread/INFO]: KidboyGamingYT was shot by Skeleton
+[14:54:11] [Server thread/INFO]: [iDONTclean: Gave 1 [Shield] to iDONTclean]
+[14:54:14] [Server thread/INFO]: KidboyGamingYT was shot by Skeleton
+[14:54:23] [Server thread/INFO]: OGFlamez fell out of the world
+[14:54:23] [Server thread/INFO]: [OGFlamez: Killed OGFlamez]
+[14:54:40] [Server thread/INFO]: [OGFlamez: Set own game mode to Creative Mode]
+[14:55:42] [Server thread/INFO]: [OGFlamez: Removed 3 items from player OGFlamez]
+[14:55:47] [Server thread/INFO]: [OGFlamez: Set own game mode to Survival Mode]
+[14:55:57] [Server thread/INFO]: KidboyGamingYT has made the advancement [Take Aim]
+[14:56:41] [Server thread/INFO]: [OGFlamez: Set own game mode to Creative Mode]
+[14:58:21] [Server thread/INFO]: [OGFlamez: Removed 1 items from player OGFlamez]
+[14:58:39] [Server thread/INFO]: [OGFlamez: Set own game mode to Survival Mode]
+[14:59:10] [Server thread/INFO]: [OGFlamez: Applied effect Instant Health to OGFlamez]
+[14:59:20] [Server thread/INFO]: [OGFlamez: Applied effect Saturation to OGFlamez]
+[15:00:06] [Server thread/INFO]: [OGFlamez: Gave 1 [Block of Iron] to OGFlamez]
+[15:00:10] [Server thread/INFO]: [OGFlamez: Removed 1 items from player OGFlamez]
+[15:00:38] [Server thread/INFO]: [OGFlamez: Teleported OGFlamez to iDONTclean]
+[15:00:38] [Server thread/WARN]: OGFlamez moved too quickly! 31.461670667961187,0.12129684053920187,-20.708795302196506
+[15:00:38] [Server thread/WARN]: OGFlamez moved too quickly! 31.461670667961187,0.12129684053920187,-20.708795302196506
+[15:00:38] [Server thread/WARN]: OGFlamez moved too quickly! 31.461670667961187,0.12129684053920187,-20.708795302196506
+[15:00:38] [Server thread/WARN]: OGFlamez moved too quickly! 31.461670667961187,0.12129684053920187,-20.708795302196506
+[15:01:25] [Server thread/INFO]: OGFlamez was slain by iDONTclean
+[15:01:57] [Server thread/INFO]: [OGFlamez: Set own game mode to Creative Mode]
+[15:02:08] [Server thread/INFO]: [OGFlamez: Removed 1 items from player OGFlamez]
+[15:02:11] [Server thread/INFO]: [OGFlamez: Set own game mode to Spectator Mode]
+[15:02:16] [Server thread/INFO]: [OGFlamez: Set own game mode to Survival Mode]
+[15:03:26] [Server thread/INFO]: OGFlamez was slain by iDONTclean
+[15:03:51] [Server thread/INFO]: OGFlamez was slain by iDONTclean
+[15:04:11] [Server thread/INFO]: OGFlamez was slain by iDONTclean
+[15:04:25] [Server thread/INFO]: OGFlamez was slain by iDONTclean
+[15:05:50] [Server thread/INFO]: OGFlamez was slain by iDONTclean
+[15:05:55] [Server thread/INFO]: KidboyGamingYT lost connection: Disconnected
+[15:05:55] [Server thread/INFO]: KidboyGamingYT left the game
+[15:05:59] [Server thread/INFO]: OGFlamez fell from a high place
+[15:06:29] [Server thread/INFO]: OGFlamez was slain by iDONTclean
+[15:06:58] [Server thread/INFO]: OGFlamez fell out of the world
+[15:06:58] [Server thread/INFO]: [OGFlamez: Killed OGFlamez]
+[15:07:30] [Server thread/INFO]: OGFlamez fell out of the world
+[15:07:30] [Server thread/INFO]: [OGFlamez: Killed OGFlamez]
+[15:07:57] [Server thread/INFO]: OGFlamez lost connection: Disconnected
+[15:07:57] [Server thread/INFO]: OGFlamez left the game
+[15:16:27] [Server thread/INFO]: iDONTclean lost connection: Disconnected
+[15:16:27] [Server thread/INFO]: iDONTclean left the game
+[15:21:00] [User Authenticator #6/INFO]: UUID of player iDONTclean is e2714ab3-4777-4845-965e-06101226e1ee
+[15:21:00] [Server thread/INFO]: iDONTclean[/0:0:0:0:0:0:0:1:53709] logged in with entity id 10250 at (70.00061971862927, 63.0, -435.04383869903006)
+[15:21:00] [Server thread/INFO]: iDONTclean joined the game
+[15:43:40] [User Authenticator #7/INFO]: UUID of player KidboyGamingYT is 41c429f4-5df2-4f28-aa1e-2c26c22a39b7
+[15:43:40] [Server thread/INFO]: KidboyGamingYT[/0:0:0:0:0:0:0:1:54305] logged in with entity id 13408 at (42.221480333714254, 63.0, -410.5807914358671)
+[15:43:40] [Server thread/INFO]: KidboyGamingYT joined the game
+[15:45:18] [Server thread/INFO]: iDONTclean lost connection: Disconnected
+[15:45:18] [Server thread/INFO]: iDONTclean left the game
+[15:48:05] [User Authenticator #8/INFO]: UUID of player iDONTclean is e2714ab3-4777-4845-965e-06101226e1ee
+[15:48:05] [Server thread/INFO]: iDONTclean[/0:0:0:0:0:0:0:1:54706] logged in with entity id 13977 at (73.57270667843979, 63.0, -410.62364660043687)
+[15:48:05] [Server thread/INFO]: iDONTclean joined the game
+[15:51:16] [Server thread/INFO]: KidboyGamingYT lost connection: Disconnected
+[15:51:16] [Server thread/INFO]: KidboyGamingYT left the game
+[15:53:48] [User Authenticator #9/INFO]: UUID of player KidboyGamingYT is 41c429f4-5df2-4f28-aa1e-2c26c22a39b7
+[15:53:49] [Server thread/INFO]: KidboyGamingYT[/0:0:0:0:0:0:0:1:55035] logged in with entity id 14553 at (78.58959414668428, 63.0, -439.2889366752536)
+[15:53:49] [Server thread/INFO]: KidboyGamingYT joined the game
+[15:54:24] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[15:54:24] [Server thread/INFO]: SMP is ending at 3:56<--[HERE]
+[15:55:03] [Server thread/INFO]: You whisper to iDONTclean: the SMP is going to end at 3:56
+[15:56:12] [Server thread/INFO]: Stopping the server
+[15:56:12] [Server thread/INFO]: Stopping server
+[15:56:12] [Server thread/INFO]: Saving players
+[15:56:12] [Server thread/INFO]: Saving worlds
+[15:56:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:56:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:56:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:56:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:56:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:56:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:56:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:56:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:56:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
