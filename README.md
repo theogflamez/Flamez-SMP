@@ -1,0 +1,2 @@
+# Flamez-SMP
+Minecraft Server
